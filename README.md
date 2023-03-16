@@ -1,4 +1,4 @@
-#Course on Data Structures and Algorithms
+# Course on Data Structures and Algorithms
 
 This repository contains materials related to my course on Data Structures and Algorithms at the Diego Portales University. The course covers topics such as algorithm analysis, data structures (e.g., arrays, linked lists, trees, graphs), sorting and searching algorithms, and more.
 
