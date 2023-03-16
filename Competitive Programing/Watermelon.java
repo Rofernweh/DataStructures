@@ -14,7 +14,11 @@ For sure, each of them should get a part of positive weight.
 
 
 
-// It's somewhat of a generic answer, but this is basically what it is asking for.
+/* It's somewhat of a generic answer, but this is basically what it is asking for.
+
+The problem requires you to determine whether a given weight can be divided into two parts such that each part weighs an even number of kilos. 
+To solve this, you can take the input weight, and use the modulo operator (%) to check if it is divisible by 2. 
+If the remainder is 0, then the weight can be split into even parts. */
 
 
 
